@@ -1,7 +1,7 @@
 # Automated Data Warehouse – Weather & City Integration
 This project is an end-to-end ETL (Extract, Transform, Load) pipeline designed to automatically collect weather data, combine it with local city information, and load everything into a PostgreSQL data warehouse.
 It serves as a practical demonstration of modern data engineering concepts, including API extraction, CSV processing, data cleaning, warehouse modeling, and automated loading.
-📌 Project Overview
+Project Overview
 The goal of this project is to automate the creation of a small data warehouse containing:
 A dimension table of cities
 A fact table of daily weather data
