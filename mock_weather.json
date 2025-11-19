@@ -1,0 +1,32 @@
+[
+  {
+    "city_name": "Paris",
+    "country": "FR",
+    "dt": "2024-11-12T18:40:00",
+    "temp_c": 16.0,
+    "humidity": 72,
+    "wind_speed": 3.5,
+    "weather_description": "clear sky",
+    "source": "mock"
+  },
+  {
+    "city_name": "Lyon",
+    "country": "FR",
+    "dt": "2024-11-12T18:40:00",
+    "temp_c": 14.5,
+    "humidity": 68,
+    "wind_speed": 2.8,
+    "weather_description": "few clouds",
+    "source": "mock"
+  },
+  {
+    "city_name": "Marseille",
+    "country": "FR",
+    "dt": "2024-11-12T18:40:00",
+    "temp_c": 18.2,
+    "humidity": 70,
+    "wind_speed": 4.1,
+    "weather_description": "sunny",
+    "source": "mock"
+  }
+]
